@@ -13,6 +13,12 @@
 - typescript (.ts)
 
 
+### Fork Github
+
+- Fork
+- Clone
+- Alteração
+
 teste
 
 ### Grupo 2 - Treinando GIT & GITHUB
@@ -23,4 +29,5 @@ teste
 -- Gustavo
 -- Kaue
 -- Ranato
+
 
