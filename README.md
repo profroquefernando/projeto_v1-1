@@ -12,6 +12,9 @@
 - javascript (.js)
 - typescript (.ts)
 
+
+teste
+
 ### Grupo 2 - Treinando GIT & GITHUB
 
 -- Carolina
@@ -20,3 +23,4 @@
 -- Gustavo
 -- Kaue
 -- Ranato
+
