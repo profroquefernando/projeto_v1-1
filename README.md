@@ -8,3 +8,6 @@
  - html (.html)
  - javascript (.js)
  - typescript (.ts)
+
+
+- alterando arquivo readme
