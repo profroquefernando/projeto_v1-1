@@ -12,8 +12,22 @@
 - javascript (.js)
 - typescript (.ts)
 
+
 ### Fork Github
 
 - Fork
 - Clone
 - Alteração
+
+teste
+
+### Grupo 2 - Treinando GIT & GITHUB
+
+-- Carolina
+-- Edvaldo
+-- Guilherme
+-- Gustavo
+-- Kaue
+-- Ranato
+
+
