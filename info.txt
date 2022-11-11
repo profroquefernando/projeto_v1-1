@@ -10,3 +10,6 @@ faser de nbovo
 //jogo par impar
 
 realizando testes da aula de git flow
+
+//Nova funcionalidade adicionada (exemplo)
+//jogo pedra papel tesoura
