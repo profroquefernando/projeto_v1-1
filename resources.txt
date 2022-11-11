@@ -6,4 +6,4 @@ Ideias Sensacionais
 
 https://www.minmeister.com (Mapa Mental)
 
-Escrevendo algo na branch teste
+Removendo algo na branch teste na mesma linha da master
