@@ -11,5 +11,7 @@ faser de nbovo
 
 realizando testes da aula de git flow
 
-//Nova funcionalidade adicionada (exemplo)
-//jogo pedra papel tesoura
+Testando hotfix {
+  //Nova funcionalidade adicionada (exemplo)
+  //jogo pedra papel tesoura
+}
