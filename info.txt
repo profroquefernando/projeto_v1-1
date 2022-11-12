@@ -11,6 +11,14 @@ faser de nbovo
 
 realizando testes da aula de git flow
 
+Funcionalidade de pontos
+
+Adicionado pela feature pontos {
+  p = 10;
+  while(p > 0)
+  p--
+  console.log(p)
+}
 Testando hotfix {
   //Nova funcionalidade adicionada (exemplo)
   //jogo pedra papel tesoura
